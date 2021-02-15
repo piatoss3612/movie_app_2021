@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/piatoss3612/movie_app_2021/static/css/main.bd84fd16.chunk.css",
+    "main.js": "/piatoss3612/movie_app_2021/static/js/main.3edc223d.chunk.js",
+    "main.js.map": "/piatoss3612/movie_app_2021/static/js/main.3edc223d.chunk.js.map",
+    "runtime-main.js": "/piatoss3612/movie_app_2021/static/js/runtime-main.75ce2b4f.js",
+    "runtime-main.js.map": "/piatoss3612/movie_app_2021/static/js/runtime-main.75ce2b4f.js.map",
+    "static/js/2.fd981380.chunk.js": "/piatoss3612/movie_app_2021/static/js/2.fd981380.chunk.js",
+    "static/js/2.fd981380.chunk.js.map": "/piatoss3612/movie_app_2021/static/js/2.fd981380.chunk.js.map",
+    "index.html": "/piatoss3612/movie_app_2021/index.html",
+    "static/css/main.bd84fd16.chunk.css.map": "/piatoss3612/movie_app_2021/static/css/main.bd84fd16.chunk.css.map",
+    "static/js/2.fd981380.chunk.js.LICENSE.txt": "/piatoss3612/movie_app_2021/static/js/2.fd981380.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75ce2b4f.js",
+    "static/js/2.fd981380.chunk.js",
+    "static/css/main.bd84fd16.chunk.css",
+    "static/js/main.3edc223d.chunk.js"
+  ]
+}
